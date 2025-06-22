@@ -108,8 +108,12 @@ Beyond just technical knowledge, I have developed strong **research, troubleshoo
 
 I’m always open to **new opportunities, collaborations, and discussions** in the field of cybersecurity, DevOps, and AI-driven operations.
 
-📩 **Feel free to reach out via LinkedIn or email.**
+<br><br>
 
-> http://www.linkedin.com/in/salman-qureshi-4aa41a247
-mailto:salmanalqureshi97@gmail.com
->
+<p align="center">
+  <a href="https://www.linkedin.com/in/salman-qureshi-4aa41a247"><img src="https://img.shields.io/badge/LinkedIn-Salman_Qureshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>    </a>
+  <a href="mailto:salmanalqureshi97@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>    </a>
+  <a href="https://github.com/Salman-Qurayshi"><img src="https://img.shields.io/badge/GitHub-Salman_Qurayshi-000?style=for-the-badge&logo=github&logoColor=white"/>    </a>
+  <a href="https://rattle-syringa-129.notion.site/ebd/2193e043159d8014b424cd5a359ce775"><img src="https://img.shields.io/badge/Notion_Clean_Notes-000000?style=for-the-badge&logo=notion&logoColor=white"/>    </a>
+</p>
+
